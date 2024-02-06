@@ -31,13 +31,7 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.pdf
 application/config/config.php
 application/config/database.php
-assets/arquivos/restrito/*.pdf
-assets/arquivos/restrito/*.xls
-assets/arquivos/restrito/*.xlsx
-assets/arquivos/restrito/*.docx
-uploadArquivos/arquivos/*.pdf
-uploadArquivos/arquivos/*.xls
-uploadArquivos/arquivos/*.xlsx
-uploadArquivos/arquivos/*.docx
+assets/arquivos/restrito/*.*
+uploadArquivos/arquivos/*.*
 *.sql
 restrito.7z
