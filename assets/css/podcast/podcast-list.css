@@ -1,0 +1,11 @@
+.imgList{
+    width: 170px;
+    height: 110px;
+    -moz-box-shadow: 2px 1px 10px #525252;
+    -webkit-box-shadow: 2px 1px 10px #525252;
+    box-shadow: 2px 1px 10px #525252;
+}
+
+.infoPodcastList{
+    font-size: 18px;
+}

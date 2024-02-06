@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "canalsaude-174213",
+  "private_key_id": "7442d8ae194bfbe00ff4b56a79015fe37f3819a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCx9egS1jaHf+3/\nJyF6s8h6gBmZi4jCG0inN3ql2n17wqrr4q3f0jlfhoGnO3SLENyof/9VNfncohwG\nO2MJbl270pDSyQ2BGt/iL7ZXq1jheE9hjbUk9cBo8YDnytlKk+XzR6q03D8WsN/a\n5r5E0pCFTDyWgZbu3dbY53zocj4+fi/kQ8kaqO0WEeGfW4jyNcqJfFjqU6ZzdPqZ\nzUnD9rjt6x7AQQVkaZFkkIKmDG1eUvc3O6vY/VRW2sfdoZoSZpybfVxycbM1PByl\n9iiY6FeMFsyB9QnH8jla6CJiUqCtumQgPZSnTy3wosbrvzIpDByj3C0N+9qLlnrw\nVeKUs36bAgMBAAECggEAEFFgFPoXc0KZFssGbYiMBXo23rbGCiZo+bbt7sSjZPRr\nVR3VRloHG2nrUY5IwseqXrj94gOvruTJH7kqUkm7G+cpkxUPFpuEPpU+vw3dzy7c\n+IZUlIMEQEXaGrxQQwpfYiNcKnas7O5jAwt4FDof4654j8RqNpTuMmK84q43DuZp\nZfIy4Nkicq3On8mk73OxXmGE66j1oBoHOXzPE9YQ5Cba7tw/bBeE+PehsgmSbI0U\nSVitt0HNA46Ay26QUNgZDM0AOHs55mfQ2gPJQ43a4mdPyKQpwCI/DCOQGKLNGXM3\nFC19Ik4eioOy5SJgVahpoxfhejSKEZcSQ3i1GppZQQKBgQDXikvFlsZz7rlcQCbl\nZYR/pPXerA+r3x5JEXkw02WygZxUx3uBUr6tP+RKrVc9kNQjoMP5bA7mxVZjG8Lt\nDtLYKce91m8b04Ylv0HnXUDx6tP56ZnyIpRpjxlp97isMoCqafzCuoAiQthFzVYb\nILn9d95NsW1higucAZjtOOLSYwKBgQDTXbwcYKrzy0LhmtWxwoM/yPe18nhoYu/b\nPqgjXRBIunnh+2tVQDt1wlNE6GFi47m/8e6e1QKxumCYItsNJUySiPeUCcW2m/jL\nJMKK3+baWBCwLQ/X5zLKsjFfdVOs9XJjzHAiws7lXknZETxEwWbiTX8DOjhLawd/\nV7FKMPQ8aQKBgCfre0ErPbI3IqmNUCboeHPTr54ALB7fAhLyY4nBfXJkQvoIwD0h\ngCNCVBvoouHKMyAuJF3Lv67KGcfdWmrhdfeHNXFZh9aVhKD1HVWmleK4ZW5B77tC\n4E30rPZNZSyvZdkqLCA8voKZ8shq0WnQ0+G4E7o8BFAuaxwHx7UX9hqVAoGBAJMM\n5KGtk2H3qPlCeqeoVx3aWJRKNAETzCHxjpLD3V9r9P4GqB7wiC2eW8ZWEeL14jYr\nQENamPxDWY6euV2E9KgCCJUC033/N3FFit+JdJe1qy6Wuy4PWKPyoyzxeJydSs8p\n3V4hwEWNer09I3wGPej114bMS3wU42tx/BNMya75AoGBAMt3fdkDk6YxpnNI8VoC\n5dj2PnKG6GX63SgIGbHvvGqqzc8LyQlt97ne/M+xXYDpgyHkCraXkR3MVwiN8MjH\n2kryPNIhXQi/27KvymAf4QbKiiBEbN5+bc2p4moJ9RuLP1mDY5N5NQn/ETQAALqf\nCkyIF59odKDRt0+hqaoaJwjO\n-----END PRIVATE KEY-----\n",
+  "client_email": "relatorioscanalsaude@canalsaude-174213.iam.gserviceaccount.com",
+  "client_id": "105695513221828188898",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/relatorioscanalsaude%40canalsaude-174213.iam.gserviceaccount.com"
+}

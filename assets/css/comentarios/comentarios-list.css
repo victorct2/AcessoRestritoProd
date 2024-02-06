@@ -1,0 +1,15 @@
+.infoStatus{
+    font-size: 13px;
+   
+}
+
+.busca{
+    background-color: rgba(7, 34, 197, 0.1);
+}
+
+.inative{
+    opacity: 0.3;
+    cursor:no-drop;
+}
+
+

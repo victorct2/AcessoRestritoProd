@@ -1,0 +1,11 @@
+.imgList{
+    width: 250px;
+    height: 150px;
+    -moz-box-shadow: 2px 1px 10px #525252;
+    -webkit-box-shadow: 2px 1px 10px #525252;
+    box-shadow: 2px 1px 10px #525252;
+}
+
+.infoProgramaList{
+    font-size: 18px;
+}

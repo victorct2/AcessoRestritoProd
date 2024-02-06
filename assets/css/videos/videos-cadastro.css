@@ -1,0 +1,82 @@
+.imgGenerate{
+     width: 380px;
+    height: 210px;
+    margin-left:20px;
+}
+
+.imagePlace{
+    margin-left:20px;
+}
+
+.imgGenerate:hover{
+    cursor: pointer;
+    opacity: 0.7
+}
+
+.zipImg{
+    width: 60px;
+    height: 70px;
+}
+
+.zipImg:hover{
+    cursor: pointer;
+}
+
+.ziploader{
+    width: 100px;
+    height: 70px;
+}
+
+.imgAlterar{
+    width: 280px;
+    height: 210px;
+}
+
+.zip,.videos{
+    float:left;
+    margin-right: 10px;
+}
+
+/*Copied from bootstrap */
+ .butn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+/*Also */
+ .butn-success {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+/* This is copied from https://github.com/blueimp/jQuery-File-Upload/blob/master/css/jquery.fileupload.css */
+ .fileinput-button {
+    position: relative;
+    overflow: hidden;
+}
+/*Also*/
+ .fileinput-button input {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    opacity: 0;
+    -ms-filter:'alpha(opacity=0)';
+    font-size: 200px;
+    direction: ltr;
+    cursor: pointer;
+}

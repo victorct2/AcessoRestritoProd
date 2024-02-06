@@ -1,0 +1,11 @@
+.infoProgramacaoList{
+    font-size: 18px;
+}
+
+.checkExcluir {
+    background-color: rgba(88, 153, 223, 0.6);
+}
+
+.busca{
+    background-color: rgba(7, 34, 197, 0.1);
+}

@@ -1,0 +1,24 @@
+.imgList{
+     width: 210px;
+    height: 150px;
+    -moz-box-shadow: 2px 1px 10px #525252;
+    -webkit-box-shadow: 2px 1px 10px #525252;
+    box-shadow: 2px 1px 10px #525252;
+}
+
+.infoVideoList{
+    font-size: 18px;
+}
+
+.modal-body{
+    height: 490px;
+}
+
+.video-js{
+    width: 570px;
+    height: 420px;
+}
+
+.busca{
+    background-color: rgba(7, 34, 197, 0.1);
+}

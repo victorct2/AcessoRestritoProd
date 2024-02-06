@@ -1,0 +1,19 @@
+.imgList{
+    width: 220px;
+    height: 320px;
+    -moz-box-shadow: 2px 1px 10px #525252;
+    -webkit-box-shadow: 2px 1px 10px #525252;
+    box-shadow: 2px 1px 10px #525252;
+}
+
+
+
+.info{
+    margin:10px 0px;
+    height: 100px; 
+}
+
+.info span{
+    
+    font-size: 14px;
+}

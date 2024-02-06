@@ -1,0 +1,91 @@
+.imagemLavanderia{
+    width: 150px;
+    height: 200px;
+    -moz-box-shadow: 2px 1px 10px #525252;
+    -webkit-box-shadow: 2px 1px 10px #525252;
+    box-shadow: 2px 1px 10px #525252;
+}
+
+
+.total{
+    font-size: 17px;
+    margin-left: 10px;
+}
+
+
+
+
+/* Widget: TODO LIST */
+.lavanderia-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow: auto;
+}
+.lavanderia-list > li {
+  border-radius: 2px;
+  padding: 10px;
+  background: #f4f4f4;
+  margin-bottom: 2px;
+  border-left: 2px solid #e6e7e8;
+  color: #444;
+}
+.lavanderia-list > li:last-of-type {
+  margin-bottom: 0;
+}
+.lavanderia-list > li > input[type='checkbox'] {
+  margin: 0 10px 0 5px;
+}
+.lavanderia-list > li .text {
+  display: inline-block;
+  margin-left: 5px;
+  font-weight: 600;
+}
+.lavanderia-list > li .label {
+  margin-left: 10px;
+  font-size: 12px;
+}
+.lavanderia-list > li .tools {
+  /*display: none;*/
+  float: right;
+  color: #dd4b39;
+}
+.lavanderia-list > li .tools > .fa,
+.lavanderia-list > li .tools > .glyphicon,
+.lavanderia-list > li .tools > .ion {
+  margin-right: 5px;
+  cursor: pointer;
+}
+.lavanderia-list > li:hover .tools {
+  display: inline-block;
+}
+.lavanderia-list > li.done {
+  color: #999;
+}
+.lavanderia-list > li.done .text {
+  text-decoration: line-through;
+  font-weight: 500;
+}
+.lavanderia-list > li.done .label {
+  background: #d2d6de !important;
+}
+.lavanderia-list .danger {
+  border-left-color: #dd4b39;
+}
+.lavanderia-list .warning {
+  border-left-color: #f39c12;
+}
+.lavanderia-list .info {
+  border-left-color: #00c0ef;
+}
+.lavanderia-list .success {
+  border-left-color: #00a65a;
+}
+.lavanderia-list .primary {
+  border-left-color: #3c8dbc;
+}
+.lavanderia-list .handle {
+  display: inline-block;
+  cursor: move;
+  margin: 0 5px;
+}

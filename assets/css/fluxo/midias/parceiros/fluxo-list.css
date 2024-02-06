@@ -1,0 +1,37 @@
+.infoParceiroList{
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+#menu-fluxo ul{
+    background-color: rgba(7, 26, 197, 0.2);
+}
+
+#menu-fluxo ul li{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.busca{
+    background-color: rgba(7, 34, 197, 0.1);
+}
+
+.imgProgramaParceiro{
+    width: 90px;
+    height: 60px;
+}
+
+.datas{
+    font-size: 13px;
+    margin-bottom: 2px;
+}
+/*
+.nav-tabs > li {
+    float:none;
+    display:inline-block;
+    zoom:1;
+}
+
+.nav-tabs {
+    text-align:center;   
+}*/
