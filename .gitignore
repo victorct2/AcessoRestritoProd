@@ -34,3 +34,4 @@ application/config/database.php
 assets/arquivos/restrito/*
 uploadArquivos/*
 restrito.sql
+restrito.7z
