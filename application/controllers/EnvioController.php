@@ -401,6 +401,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 $replaceString = "";
 
                 $originalString =$descricao;
+				$trataString=$outputString = str_replace($searchString, $replaceString, $originalString);
 
                 
 
@@ -412,7 +413,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
                 $ext = @end(explode(".",$arquivos[0]));
 
-                $arquivo = $trataString.'.'.$ext;
+                $arquivo = md5($idCooperado.$trataString.$id).'.'.$ext;
 
                 //die($arquivo);                
 

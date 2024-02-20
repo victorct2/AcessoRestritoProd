@@ -399,7 +399,7 @@ class RestritoController extends CI_Controller {
                 
                 $nome_arquivo= $descricao;  
                 $ext = @end(explode(".",$arquivos[0]));
-                $arquivo = md5($idCooperado).$trataString.$id.'.'.$ext;
+                $arquivo = md5($idCooperado.$trataString.$id).'.'.$ext;
                 //die($arquivo);                
                 
                 if($this->RestritoDao_model->completar_cadastro($nome_arquivo,$arquivo,$id)){
